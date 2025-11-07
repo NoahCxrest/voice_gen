@@ -1,0 +1,8 @@
+/.venv
+/__pycache__
+/en_US-ryan-high.onnx
+/en_US-ryan-high.onnx.json
+/en_US-ryan-low.onnx
+/en_US-ryan-low.onnx.json
+/en_US-ryan-medium.onnx
+/en_US-ryan-medium.onnx.json
